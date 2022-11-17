@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTK_WebAPI_ServerAPI_UI", "UTK_WebAPI_ServerAPI_UI\UTK_WebAPI_ServerAPI_UI.csproj", "{95DFFA1B-276B-4BD1-9571-05BBE2447E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WepAPI_DB", "WepAPI_DB\WepAPI_DB.csproj", "{9C8523A5-D117-470E-A779-721708A3518E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DFFA1B-276B-4BD1-9571-05BBE2447E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DFFA1B-276B-4BD1-9571-05BBE2447E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DFFA1B-276B-4BD1-9571-05BBE2447E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DFFA1B-276B-4BD1-9571-05BBE2447E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8523A5-D117-470E-A779-721708A3518E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8523A5-D117-470E-A779-721708A3518E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8523A5-D117-470E-A779-721708A3518E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8523A5-D117-470E-A779-721708A3518E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FA10030-31A3-49EF-8D8C-2CE210AC6D6C}
+	EndGlobalSection
+EndGlobal
